@@ -1,0 +1,63 @@
+header .navbar {
+    display: flex;
+    justify-content: center;
+
+}
+
+header .navbar img {
+    width: 80px;
+    height: 90px;
+
+}
+
+header .title_Box {
+    text-align: center;
+
+
+}
+
+header .title_Box h1 {
+    font-size: 20px;
+
+
+}
+
+main .container {
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+
+}
+
+
+
+main .container .col {
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+main .container .col h1 {
+    font-size: 15px;
+    margin: 0px;
+    font-weight: bold;
+}
+
+main .container .col p {
+    font-size: 14px;
+    margin: 0px 0px 0px 20px;
+}
+
+main .container .col img {
+    width: 100px;
+
+}
+
+main .container .col .col-img {
+    width: 100px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+}
